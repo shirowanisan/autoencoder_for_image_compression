@@ -8,11 +8,4 @@
 4. 3の画像を表示する。
 
 ## 環境構築
-pyhonのバージョンは3.7.4で作成しました。
-また、このソースコードは以下のライブラリを使っています。
-```
-$ pip install pillow
-$ pip install numpy
-$ pip install tensorflow
-$ pip install keras
-```
+pythonのバージョンは3.7.5で作成しました。
